@@ -12,6 +12,8 @@ The Xbox 360 version of LEGO Dimensions is made in the Next-Gen, Cinematic DX9 v
 
 `# ---- OFFSETED JUMPTABLE ----`
 
+Update: A fork of XenonRecomp made by [Nitch2024 aka. NoName](https://github.com/Nitch2024) was able to create an output that works with LEGO Dimensions. The decomp process will be starting now as of writing this. Wish us luck...
+
 # The Goal Of This Project
 Our main goal is to decompile the game as much as we can. When the recomp is fully completed and verified working, we'll work on making the game to work on PC and update this file to include compiling steps for the port, and what system requirements your PC will need.
 
